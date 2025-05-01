@@ -18,3 +18,5 @@ for the bootstrapped LXD controller.
 To interact with said controller you can use (absolute or relative paths):
 `XDG_DATA_HOME="/absolute/path/to/this/directory/baby-bootstrap" juju <command>`
 `XDG_DATA_HOME="./" juju <command>`
+
+![jujucontrollers](image.png)
